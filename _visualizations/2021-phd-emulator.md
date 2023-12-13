@@ -14,6 +14,6 @@ In my  PhD, I built a Gaussian process emulator of a climate model (the Met Offi
 The emulator estimates the surface temperature response to 9 pollutant emission changes. Here is an example
 of how it can be used (at some point I will make this interactive):
 
-<br/><img src='/images/visualizations/Emulator_widget.mov'>
+<br/><img src='/images/visualizations/Emulator_widget.gif'>
 
  
