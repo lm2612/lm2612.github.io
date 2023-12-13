@@ -184,6 +184,9 @@ collections:
   visualizations:
     output: true
     permalink: /:collection/:path/
+  updates:
+    output: true         
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -244,6 +247,15 @@ defaults:
       path: ""
       type: visualizations
     values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+ # _updates
+  - scope:
+      path: "" 
+      type: updates
+    values: 
       layout: single
       author_profile: true
       share: true
