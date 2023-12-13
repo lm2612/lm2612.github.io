@@ -2,6 +2,8 @@
 title: 'Climate response emualtor'
 date: 2021-08-01
 permalink: /visualizations/2021_phd_emulator
+collection: visualizations
+excerpt: A video of the emissions - response emulator built during my PhD.
 tags:
   - machine learning
   - climate

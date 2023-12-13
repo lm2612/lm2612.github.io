@@ -13,11 +13,12 @@ tags:
 Calibration and Uncertainty Quantification of Gravity Wave Parameterization
 ------
 
-In my 2022 paper, we calibrate a gravity wave parameterization to obtain climate model statistics 
-consistent with observations. The gravity wave parameters are the half-width of the distribution of 
-phase speeds in the tropics (c_w) and the total gravity wave stress at the source level at the equator (Bt_eq).
+In my [2022 paper](https://lm2612.github.io/publication/2022-10-27-calibration-uncertainty-quantification), 
+we calibrate a gravity wave parameterization to obtain climate model statistics consistent with observations 
+and then carry out uncertainty quantification. The gravity wave parameters are the half-width of the distribution of 
+phase speeds in the tropics ($c_w$) and the total gravity wave stress at the source level at the equator ($Bt_{eq}$).
 We consider two observables of the Quasi-Biennial Oscillation (QBO): the period and amplitude at 10 hPa.
-As described in the paper, we use the Calibrate, Emulate, Sample methods. 
+As described in the paper, we use the Calibrate, Emulate, Sample methods.
 
 Calibration using Ensemble Kalman Inversion
 ---
