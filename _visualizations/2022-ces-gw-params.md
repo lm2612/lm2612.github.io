@@ -8,6 +8,8 @@ tags:
   - calibration
   - uncertainty quantification
   - emulators
+  - gravity waves
+  - parameterizations
 ---
 
 Calibration and Uncertainty Quantification of Gravity Wave Parameterization
@@ -29,6 +31,7 @@ evolution of the gravity wave parameters (top two panels) and the QBO observable
 
 ---
 <br/><img src='/images/visualizations/pm_EKI.gif'>
+
 ---
 
 Uncertainty Quantification with Gaussian process emulator and Markov chain Monte Carlo 
@@ -42,6 +45,7 @@ uncertainty).
 
 ---
 <br/><img src='/images/visualizations/gwparams_sampling.gif'>
+
 ---
 
 
@@ -49,4 +53,5 @@ The animation below shows how these samples generate a 2d posterior distribution
 
 ---
 <br/><img src='/images/visualizations/gwparams_posterior.gif'>
+
 ---

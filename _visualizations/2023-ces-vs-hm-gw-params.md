@@ -15,7 +15,7 @@ tags:
 
 ------
 
-This work was led by [Rob King](), a grad student at Stanford University. 
+This work was led by [Rob King](https://www.robertcking.com/), a grad student at Stanford University. 
 We compare two calibration methods in the context of calibrating a gravity wave parameterization
 in an intermediate complexity climate model, to obtain statistics of the Quasi-Biennial Oscillation (QBO) consistent with observations. 
 It is a continuation of [my previous work that used Ensemble Kalman Inversion (EKI) to calibrate gravity wave parameters](https://lm2612.github.io/publication/2022-10-27-calibration-uncertainty-quantification). 

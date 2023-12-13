@@ -1,5 +1,5 @@
 ---
-title: 'Climate response emualtor'
+title: 'Climate response emulator'
 date: 2021-08-01
 permalink: /visualizations/2021_phd_emulator
 collection: visualizations

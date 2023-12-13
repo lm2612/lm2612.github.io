@@ -1,5 +1,5 @@
 ---
-title: Uncertainty Quantification of a Machine Learning Parameterization'
+title: 'Uncertainty Quantification of a Machine Learning Parameterization'
 date: 2023-12-12
 permalink: /visualizations/2023_ml_param_uq
 excerpt: Machine learning parameterizations are becoming a popular technique for improving climate models. This work aims to learn the uncertainties associated with them.
