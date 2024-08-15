@@ -15,5 +15,5 @@ Research Interests
 
 My main interests include machine learning and Bayesian statistics for aiding climate change projection. I am interested in climate model emulation to understand the impacts of climate change at low computational costs. I am also interested in machine learning approaches to improve climate models by creating "hybrid" climate models which combine traditional dynamical solvers with novel machine learning components for subgrid-scale processes.
 
-Feel free to reach out to me at lauraman@stanford.edu
+Feel free to reach out to me at [lauraman@stanford.edu](mailto:lauraman@stanford.edu)
 
