@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Mansfield"
 title_separator          : "-"
 name                     : &name "Laura Mansfield"
-description              : &description "Postdoctoral Researcher at Stanford University"
+description              : &description "Postdoctoral Fellow at University of Oxford"
 url                      : https://lm2612.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lm2612/lm2612.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Laura Mansfield"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Stanford University"
-  location         : "Palo Alto, California"
+  bio              : "Postdoctoral Fellow at University of Oxford"
+  location         : "Oxford, England."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=edNb_cUAAAAJ"
