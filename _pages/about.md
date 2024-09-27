@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Stanford University, interested in how we can use machine learning to improve climate models. I am currently working on gravity wave parameterizations, which are used to represent the subgrid-scale portion of the gravity wave spectrum in climate models. I work on calibration and uncertainty of parameterizations and on machine learning alternatives.
+I am a postdoctoral fellow at the University of Oxford, with a broad interest in the use of artificial intelligence (AI)/machine learning (ML) and Bayesian statistics for climate change projections. Specifically, I work on using AI models for subgrid-scale processes, such as convection and atmospheric gravity waves, within global climate models. I am particularly interested in quantifying uncertainties associated with AI subgrid-scale parameterisations. I previously worked on calibration and uncertainty quantification of physics-based parameterisations.
 
 Research Interests
 -----------------
+* Climate model emulators
+* Hybrid "AI + physics" climate models
+* Subgrid-scale processes and their interaction with larger scales
+* High resolution climate models
+* Climate model calibration
+* Uncertainty quantification of climate models
 
-My main interests include machine learning and Bayesian statistics for aiding climate change projection. I am interested in climate model emulation to understand the impacts of climate change at low computational costs. I am also interested in machine learning approaches to improve climate models by creating "hybrid" climate models which combine traditional dynamical solvers with novel machine learning components for subgrid-scale processes.
-
-Feel free to reach out to me at [lauraman@stanford.edu](mailto:lauraman@stanford.edu)
+Feel free to reach out to me at laura [dot] mansfield [at] physics [dot] ox [dot] ac [dot] uk
 
