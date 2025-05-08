@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the University of Oxford, with a broad interest in the use of artificial intelligence (AI)/machine learning (ML) and Bayesian statistics for climate change projections. Specifically, I work on using AI models for subgrid-scale processes, such as convection and atmospheric gravity waves, within global climate models. I am particularly interested in quantifying uncertainties associated with AI subgrid-scale parameterisations. I previously worked on calibration and uncertainty quantification of physics-based parameterisations.
+I am a Schmidt AI in Science fellow at the University of Oxford, with a broad interest in the use of artificial intelligence (AI)/machine learning (ML) and Bayesian statistics to advance climate modelling. Specifically, I develop ML subgrid-scale parameterisations for small-scale processes such as convection and atmospheric gravity waves. I am particularly interested in quantifying uncertainties associated with ML parameterisations. Previously, I was a postdoc at Stanford University where I worked on uncertainty quantification of ML and physics-based gravity wave parameterisations and prior to that, I completed my PhD at the University of Reading in climate model emulation and Bayesian statistics.
+
 
 Research Interests
 -----------------
@@ -16,6 +17,7 @@ Research Interests
 * Hybrid "AI + physics" climate models
 * Subgrid-scale processes and their interaction with larger scales
 * High resolution climate models
+* Bayesian statistics
 * Climate model calibration
 * Uncertainty quantification of climate models
 
