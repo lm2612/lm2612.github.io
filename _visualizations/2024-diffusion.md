@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Using Diffusion Models for Climate Data Downscaling'
 date: 2024-05-01
 permalink: /visualizations/2024_diffusion_downscaling
 excerpt: We used generative diffusion models to sharpen coarse climate data over the U.S., showing they can recover fine-scale weather features and provide useful uncertainty estimates for risk analysis.
