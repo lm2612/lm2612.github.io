@@ -1,9 +1,9 @@
 ---
 title: 'Comparison of Calibration Methods for Gravity Wave Parameterization'
 date: 2023-12-12
-permalink: /visualizations/2023_ces_vs_hm_gw_params
+permalink: /posts/2023_ces_vs_hm_gw_params
 excerpt: Work led by Rob King to compare calibration and uncertainty quantification techniques for a gravity wave parameterization
-collection: visualizations
+collection: posts
 tags:
   - calibration
   - uncertainty quantification
@@ -28,7 +28,7 @@ You can see this in the animation below, where history matching samples converge
 
 
 ---
-<br/><img src='/images/visualizations/compare_hm_vs_eki.gif'>
+<br/><img src='/images/posts/compare_hm_vs_eki.gif'>
 ---
 
 Both methods have their merits: EKI converges more rapidly upon the optimal parameters. However, 

@@ -1,9 +1,9 @@
 ---
 title: 'Using Diffusion Models for Climate Data Downscaling'
 date: 2024-05-01
-permalink: /visualizations/2024_diffusion_downscaling
+permalink: /posts/2024_diffusion_downscaling
 excerpt: We used generative diffusion models to sharpen coarse climate data over the U.S., showing they can recover fine-scale weather features and provide useful uncertainty estimates for risk analysis.
-collection: visualizations
+collection: posts
 tags:
   - diffusion
   - downscaling 
@@ -22,12 +22,12 @@ To do this, we used ERA5 reanalysis data, a high quality climate dataset that co
 
 We compared our diffusion model against a standard U-Net, a well-known deep learning model often used for downscaling weather and climate data. The results were encouraging: while the U-Net already performed well, <b>the diffusion model captured finer-scale structures more clearly</b>, especially for wind patterns. You can see this in the first figure below, which compares the coarse input, the true high-resolution map, the U-Net prediction, and the diffusion result. The diffusion prediction shows more crisp fronts and gradients, giving a more realistic texture to the wind fields.
 
-<br/><img src='/images/visualizations/diffusion_compare.png'>
+<br/><img src='/images/posts/diffusion_compare.png'>
 
 Another major advantage of diffusion models is that they <b>naturally produce ensembles - multiple plausible versions of the same forecast</b>. This is valuable because it lets us estimate uncertainty. The GIF below shows several ensemble members for a single time snapshot, each slightly different but physically consistent. By taking the standard deviation across these members, shown in the last plot, we can highlight areas where the model is most uncertain, typically along strong temperature and wind gradients such as weather fronts. These <b>uncertainty estimates could be especially useful for risk assessment and weather-related hazards</b>.
 
-<br/><img src='/images/visualizations/diffusion_ens_pred.gif'>
-<br/><img src='/images/visualizations/diffusion_std.png'>
+<br/><img src='/images/posts/diffusion_ens_pred.gif'>
+<br/><img src='/images/posts/diffusion_std.png'>
 
 Overall, our results show that diffusion models can sharpen coarse climate data while also giving a measure of uncertainty, something traditional neural networks don’t easily provide. While we tested it here on temperature and wind fields, I am particularly <b>excited about the possiblity of diffusion being used for precipitation</b>, a variable that is usually difficult to capture at the fine-scales and that has important consequences when it comes to extreme precipitation events. The approach is relatively simple and lightweight. You can read the full paper [here](https://arxiv.org/abs/2404.17752) or check out our code [here](https://github.com/robbiewatt1/ClimateDiffuse). We hope this encourages others to explore generative models like diffusion for climate and weather prediction.
 

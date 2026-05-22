@@ -1,8 +1,8 @@
 ---
 title: 'Climate response emulator'
 date: 2021-08-01
-permalink: /visualizations/2021_phd_emulator
-collection: visualizations
+permalink: /posts/2021_phd_emulator
+collection: posts
 excerpt: A video of the emissions - response emulator built during my PhD.
 tags:
   - machine learning
@@ -14,6 +14,6 @@ In my  PhD, I built a Gaussian process emulator of a climate model (the Met Offi
 The emulator estimates the surface temperature response to 9 pollutant emission changes. Here is an example
 of how it can be used (at some point I will make this interactive):
 
-<br/><img src='/images/visualizations/Emulator_widget.gif'>
+<br/><img src='/images/posts/Emulator_widget.gif'>
 
  

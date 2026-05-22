@@ -1,9 +1,9 @@
 ---
 title: 'Uncertainty Quantification of a Machine Learning Parameterization'
 date: 2023-12-12
-permalink: /visualizations/2023_ml_param_uq
+permalink: /posts/2023_ml_param_uq
 excerpt: Machine learning parameterizations are becoming a popular technique for improving climate models. This work aims to learn the uncertainties associated with them.
-collection: visualizations
+collection: posts
 tags:
   - uncertainty quantification
   - machine learning
@@ -26,5 +26,5 @@ below shows zonal and meridional gravity wave drag profiles, with the ground tru
 the mean neural network prediction in red and the neural network uncertainty (1 standard deviation) in orange shading. 
 
 ---
-<br/><img src='/images/visualizations/animation_GWDs_profile_mean_std_ensemble.gif'>
+<br/><img src='/images/posts/animation_GWDs_profile_mean_std_ensemble.gif'>
 ---

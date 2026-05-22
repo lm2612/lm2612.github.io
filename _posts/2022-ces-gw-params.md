@@ -1,9 +1,9 @@
 ---
 title: 'Calibration and Uncertainty Quantification of Gravity Wave Parameterization'
 date: 2022-10-25
-permalink: /visualizations/2022_ces_gw_params
+permalink: /posts/2022_ces_gw_params
 excerpt: Visualizations of Calibrate, Emulate and Sample method used in Mansfield & Sheshadri, 2022.
-collection: visualizations
+collection: posts
 tags:
   - calibration
   - uncertainty quantification
@@ -30,7 +30,7 @@ the parameters until the QBO observables are consistent with observations. The a
 evolution of the gravity wave parameters (top two panels) and the QBO observables (lower two panels).
 
 ---
-<br/><img src='/images/visualizations/pm_EKI.gif'>
+<br/><img src='/images/posts/pm_EKI.gif'>
 
 ---
 
@@ -44,7 +44,7 @@ amplitude (right). The points indicate MCMC samples, which are selected to be co
 uncertainty).
 
 ---
-<br/><img src='/images/visualizations/gwparams_sampling.gif'>
+<br/><img src='/images/posts/gwparams_sampling.gif'>
 
 ---
 
@@ -52,6 +52,6 @@ uncertainty).
 The animation below shows how these samples generate a 2d posterior distribution of gravity wave parameters.
 
 ---
-<br/><img src='/images/visualizations/gwparams_posterior.gif'>
+<br/><img src='/images/posts/gwparams_posterior.gif'>
 
 ---

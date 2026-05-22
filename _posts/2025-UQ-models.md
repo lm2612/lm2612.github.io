@@ -1,9 +1,9 @@
 ---
 title: 'Uncertainties in weather and climate modelling'
 date: 2025-10-01
-permalink: /visualizations/2025_UQ_models
+permalink: /posts/2025_UQ_models
 excerpt: What uncertainties are there in weather and climate models? 
-collection: visualizations
+collection: posts
 tags:
   - uncertainties
   - atmospheric modelling
