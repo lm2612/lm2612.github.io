@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Visualizations"
-permalink: /visualizations/
+title: "Posts"
+permalink: /posts/
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-{% for post in site.visualizations reversed %}
+{% for post in site.posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

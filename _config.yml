@@ -184,6 +184,9 @@ collections:
   visualizations:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
   updates:
     output: true         
     permalink: /:collection/:path/
@@ -242,10 +245,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _visualizations
+  # _posts
   - scope:
       path: ""
-      type: visualizations
+      type: posts
     values:
       layout: single
       author_profile: true
