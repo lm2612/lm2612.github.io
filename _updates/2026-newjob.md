@@ -1,6 +1,6 @@
 ---
 title: 'New role!'
-date: 2026-05-10
+date: 2026-08-01
 permalink: /updates/2026_ocf
 collection: updates
 excerpt: ML Engineer at OCF
