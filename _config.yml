@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Mansfield"
 title_separator          : "-"
 name                     : &name "Laura Mansfield"
-description              : &description "Postdoctoral Fellow at University of Oxford"
+description              : &description "ML Engineer at Open Climate Fix"
 url                      : https://lm2612.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lm2612/lm2612.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Laura Mansfield"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow at University of Oxford"
-  location         : "Oxford, England."
+  bio              : "ML Engineer at Open Climate Fix"
+  location         : "London, England."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=edNb_cUAAAAJ"
-  email            : "lauraman@stanford.edu"
+  email            : #""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
