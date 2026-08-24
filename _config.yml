@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laura Mansfield"
+title                    : "Laura Mansfield-Watt"
 title_separator          : "-"
-name                     : &name "Laura Mansfield"
+name                     : &name "Laura Mansfield-Watt"
 description              : &description "ML Engineer at Open Climate Fix"
 url                      : https://lm2612.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laura Mansfield"
+  name             : "Laura Mansfield-Watt"
   avatar           : "profile.png"
   bio              : "ML Engineer at Open Climate Fix"
   location         : "London, England."
